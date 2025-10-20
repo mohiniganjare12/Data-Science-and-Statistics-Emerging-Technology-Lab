@@ -98,8 +98,8 @@ After completing this repository, you will be able to:
 ## 🧑‍💻 Author
 
 **Your Name**  
-📧 Email: your.email@example.com  
-💼 GitHub: [https://github.com/YourUsername](https://github.com/YourUsername)
+📧 Email: mohiniganjare44@gmail.com.com  
+💼 GitHub:(https://github.com/mohiniganjare12/Data-Science-and-Statistics-Emerging-Technology-Lab.git)](https://github.com/mohiniganjare12)
 
 ---
 
