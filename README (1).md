@@ -1,5 +1,5 @@
 # 🚀 Emerging Technology DSS  
-### *Data Science & Machine Learning with Python*
+### *Data Science & Statistics with Python*
 
 A hands-on collection of Jupyter Notebooks that demonstrate the key stages of **data science and machine learning** — from data gathering and preprocessing to visualization, modeling, and evaluation.  
 This repository is designed for learners who want to build a strong foundation in **Python-based machine learning**.
@@ -101,13 +101,5 @@ After completing this repository, you will be able to:
 📧 Email: mohiniganjare44@gmail.com.com  
 💼 GitHub:(https://github.com/mohiniganjare12/Data-Science-and-Statistics-Emerging-Technology-Lab.git)](https://github.com/mohiniganjare12)
 
----
-
-## 📜 License
-
-This project is released under the **MIT License**.  
-Feel free to use, modify, and share for educational purposes.
-
----
 
 ⭐ *If you find this repository helpful, don’t forget to star it on GitHub!*
